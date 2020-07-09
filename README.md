@@ -1,3 +1,9 @@
+# NOTE
+
+This is an archive of the original proposal. A new proposal ["Async Context for JavaScript"](https://github.com/legendecas/proposal-async-context) that overlapping this proposal is actively seeking for feedbacks.
+
+------
+
 # Zones for JavaScript
 
 [Spec](https://domenic.github.io/zones)
